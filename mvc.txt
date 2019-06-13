@@ -1,0 +1,3 @@
+datos ----> Modelos(clases+metodos crud)
+presentacion--->vista(html+datos a mostrar)
+negocio---->controlador(metodos funciones ligicas enlaza bd->vista)
